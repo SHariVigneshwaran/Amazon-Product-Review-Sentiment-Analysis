@@ -3,7 +3,7 @@
 
 Applying sentiment analysis on Amazon's product reviews.
 
-**If you are looking to skim over the project without going into too much detail, you can easily access it through [_here_]().**
+**If you are looking to skim over the project without going into too much detail, you can easily access it through [_here_](https://nbviewer.org/github/SHariVigneshwaran/Amazon-Product-Review-Sentiment-Analysis/blob/master/Amazon-Products-Review-Sentiment-Analysis.ipynb).**
 
 <img src="Amazon.jpg">
 
