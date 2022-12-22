@@ -1,4 +1,4 @@
-# Amazon-Reviews-using-Sentiment-Analysis
+# Amazon-Product-Review-Sentiment-Analysis
 ### Author - Hari Vigneshwaran S
 
 Applying sentiment analysis on Amazon's product reviews.
