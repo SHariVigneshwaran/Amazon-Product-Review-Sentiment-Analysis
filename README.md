@@ -22,3 +22,6 @@ You can unzip and use it.
 This project was completed using Jupyter Notebook and Python with Pandas, NumPy, Matplotlib and Scikit-Learn.
 
 This was my third data analysis project using Python, and I look forward to contribute more to the community!
+
+With love
+- Hari Vigneshwaran S
